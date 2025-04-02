@@ -52,7 +52,7 @@ I'm a backend-focused MERN Stack developer with a passion for building scalable,
 ## 📫 Let's Connect!
 
 * **Email:** <deepanshubad000@gmail.com>
-* **LinkedIn:** [Deepanshu on LinkedIn](www.linkedin.com/in/deepanshu902)
+* **LinkedIn:** [Deepanshu on LinkedIn](https://www.linkedin.com/in/deepanshu902)
 * **GitHub:** [Deepanshu902](https://github.com/Deepanshu902)
 
 I'm always open to discussing new opportunities, collaborating on innovative projects, or sharing insights. Feel free to reach out!
