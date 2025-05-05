@@ -1,6 +1,6 @@
 # Hi, I'm Deepanshu 👋
 
-I'm a backend-focused MERN Stack developer with a passion for building scalable, secure, and efficient APIs. My expertise lies in designing robust backend architectures, implementing secure authentication and authorization, and integrating seamlessly with cloud and third-party services. I'm also committed to continuous learning, currently exploring Next.js and the potential of AI in backend development.
+I'm a backend-focused MERN Stack developer with a passion for building scalable, secure, and efficient APIs. My expertise lies in designing robust backend architectures, implementing secure authentication and authorization, and integrating seamlessly with cloud and third-party services. I'm currently sharpening my DevOps fundamentals and containerization skills with Docker.
 
 🚀 **Check out my Portfolio:** [Deepanshu](https://deepanshu902.xyz)
 ---
