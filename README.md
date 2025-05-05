@@ -40,6 +40,7 @@ I'm a backend-focused MERN Stack developer with a passion for building scalable,
 * **Version Control & Deployment:**
     * Git & GitHub: Proficient in version control and collaboration.
     * Deployment: Experience deploying applications on platforms like Render and Vercel.
+    * Docker: Writing basic to multi-stage Dockerfiles for containerizing MERN stack applications.
 
 ---
 
