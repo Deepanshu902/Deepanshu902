@@ -39,7 +39,7 @@ I'm a backend-focused MERN Stack developer with a passion for building scalable,
 * **Third-Party Integrations:** Expertise in integrating various APIs, including Google Cloud Vision for image analysis.
 * **Version Control & Deployment:**
     * Git & GitHub: Proficient in version control and collaboration.
-    * Deployment: Experience deploying applications on platforms like Render and Vercel.
+    * Deployment: Experience deploying applications on platforms like AWS and Vercel.
     * Docker: Writing basic to multi-stage Dockerfiles for containerizing MERN stack applications.
 
 ---
