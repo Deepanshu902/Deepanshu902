@@ -1,73 +1,63 @@
-Hi, I'm Deepanshu 👋
-I'm a backend-focused MERN Stack developer with a passion for building scalable, secure, and efficient APIs. My expertise lies in designing robust backend architectures, implementing secure authentication and authorization, and integrating seamlessly with cloud and third-party services. I'm currently sharpening my DevOps fundamentals and containerization skills with Docker.
+# 👋 Hi, I'm Deepanshu
 
-🚀 Check out my Portfolio: Deepanshu
+🚀 Backend-focused MERN Stack Developer | 🔐 API & Security Enthusiast | 🐳 Docker Learner
 
-🔥 About Me
-Backend Specialist: Focused on delivering high-quality, scalable backend solutions.
+I'm passionate about building **scalable**, **secure**, and **real-world backend systems**. Currently diving deep into **DevOps**, containerization, and modern full-stack workflows.
 
-MERN Stack Enthusiast: Proven experience across the MERN stack, with a strong emphasis on backend development.
+[🌐 Portfolio](https://deepanshu902.xyz) • [📧 Email](mailto:deepanshubad000@gmail.com) • [💼 LinkedIn](https://www.linkedin.com/in/deepanshu902) • [📊 LeetCode](https://leetcode.com/deepanshu_0910)
 
-API Architect: Skilled in designing, developing, and deploying RESTful APIs.
+---
 
-Security-Conscious Developer: Prioritizing secure authentication, data encryption, and best practices.
+## 🚀 About Me
 
-Solution-Oriented: Dedicated to building backend systems that solve real-world problems.
+- 💻 **MERN Stack Developer** — with a backend-first mindset.
+- 🧩 **API Architect** — designing secure, efficient RESTful services.
+- 🔐 **Auth & Security** — JWT, OAuth2, bcrypt, encryption, best practices.
+- 📦 **Cloud & DevOps** — AWS, Docker, Vercel deployments.
+- 🤝 **Team Player** — quick to adapt and solve real-world problems.
 
-📊 Stats & Streaks
-💻 Skills & Technologies
-Backend Development:
-Node.js & Express.js: Proficient in server-side development, API design, and middleware implementation.
+---
 
-MongoDB & Mongoose: Expertise in database design, management, and object modeling.
+## 🛠️ Tech Stack
 
-REST APIs: Skilled in designing, developing, and documenting scalable and secure RESTful APIs.
+### Backend
+- **Node.js**, **Express.js**
+- **MongoDB**, **Mongoose**
+- **REST APIs**, **JWT**, **OAuth2**, **bcrypt**
+- **Cloudinary**, **Razorpay**, **crypto**
 
-Authentication & Authorization:
+### DevOps & Tools
+- **Docker** (incl. multi-stage builds)
+- **AWS EC2**, **Vercel**, **Git**, **GitHub**
+- **Dotenv**, **Postman**, **Nodemailer**
 
-JWT (JSON Web Tokens): Implementing secure token-based authentication.
+### Real-Time / Extra
+- **Socket.io**, **Google Cloud Vision**, **CI/CD basics**
 
-OAuth 2.0: Integrating third-party authorization.
+---
 
-bcrypt: Secure password hashing techniques.
+## 📈 LeetCode Stats
 
-File Uploads & Storage: Cloudinary integration for efficient file management and storage.
+![LeetCode Stats](https://leetcard.jacoblin.cool/deepanshu_0910?theme=dark&font=baloo&ext=contest)
 
-Security & Encryption:
+---
 
-crypto: Utilizing Node.js crypto module for data encryption and decryption.
+## 🌱 Currently Learning
 
-Secure coding practices to prevent vulnerabilities.
+- ⚡ **Next.js** — for full-stack SSR apps
+- 🧠 **AI Integration** — combining ML with backend workflows
 
-Payment Integration: Experience integrating payment gateways like Razorpay for seamless transactions.
+---
 
-Additional Skills:
-Real-Time Communication: Building real-time applications using Socket.io.
+## 🤝 Let's Connect
 
-Environment Management: Configuration management using Dotenv.
+If you're hiring, collaborating, or just want to chat — feel free to connect:
 
-Third-Party Integrations: Expertise in integrating various APIs, including Google Cloud Vision for image analysis.
+- 📧 **Email:** [deepanshubad000@gmail.com](mailto:deepanshubad000@gmail.com)
+- 🌐 **Portfolio:** [deepanshu902.xyz](https://deepanshu902.xyz)
+- 💼 **LinkedIn:** [linkedin.com/in/deepanshu902](https://www.linkedin.com/in/deepanshu902)
+- 🧑‍💻 **GitHub:** [github.com/Deepanshu902](https://github.com/Deepanshu902)
 
-Version Control & Deployment:
+---
 
-Git & GitHub: Proficient in version control and collaboration.
-
-Deployment: Experience deploying applications on platforms like AWS and Vercel.
-
-Docker: Writing basic to multi-stage Dockerfiles for containerizing MERN stack applications.
-
-🌱 Currently Learning
-Next.js: Expanding full-stack capabilities with server-side rendering and React frameworks.
-
-AI Integration: Exploring the application of AI/ML to optimize backend processes and enhance application functionality.
-
-📫 Let's Connect!
-Email: deepanshubad000@gmail.com
-
-Portfolio: Deepanshu
-
-LinkedIn: Deepanshu on LinkedIn
-
-GitHub: Deepanshu902
-
-I'm always open to discussing new opportunities, collaborating on innovative projects, or sharing insights. Feel free to reach out!
+> ⚡ “Good code is its own best documentation.” – Steve McConnell
