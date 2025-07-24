@@ -1,63 +1,60 @@
-# 👋 Hi, I'm Deepanshu
+# Hi, I'm Deepanshu 👨‍💻
 
-🚀 Backend-focused MERN Stack Developer | 🔐 API & Security Enthusiast | 🐳 Docker Learner
-
-I'm passionate about building **scalable**, **secure**, and **real-world backend systems**. Currently diving deep into **DevOps**, containerization, and modern full-stack workflows.
-
-[🌐 Portfolio](https://deepanshu902.xyz) • [📧 Email](mailto:deepanshubad000@gmail.com) • [💼 LinkedIn](https://www.linkedin.com/in/deepanshu902) • [📊 LeetCode](https://leetcode.com/deepanshu_0910)
+Backend-focused **MERN Stack Developer** with a strong grip on building scalable and secure APIs.  
+I work mostly with **Node.js, Express, MongoDB**, and cloud-based integrations.  
+Currently improving my **DevOps and Docker** workflow for better deployment pipelines.
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-- 💻 **MERN Stack Developer** — with a backend-first mindset.
-- 🧩 **API Architect** — designing secure, efficient RESTful services.
-- 🔐 **Auth & Security** — JWT, OAuth2, bcrypt, encryption, best practices.
-- 📦 **Cloud & DevOps** — AWS, Docker, Vercel deployments.
-- 🤝 **Team Player** — quick to adapt and solve real-world problems.
-
----
-
-## 🛠️ Tech Stack
-
-### Backend
-- **Node.js**, **Express.js**
-- **MongoDB**, **Mongoose**
-- **REST APIs**, **JWT**, **OAuth2**, **bcrypt**
-- **Cloudinary**, **Razorpay**, **crypto**
-
-### DevOps & Tools
-- **Docker** (incl. multi-stage builds)
-- **AWS EC2**, **Vercel**, **Git**, **GitHub**
-- **Dotenv**, **Postman**, **Nodemailer**
-
-### Real-Time / Extra
-- **Socket.io**, **Google Cloud Vision**, **CI/CD basics**
+- 🧩 **API Design & Architecture** — RESTful services with structured error handling and validations  
+- 🔐 **Authentication & Security** — JWT, OAuth2, bcrypt, encryption using Node.js `crypto` module  
+- 🛠 **Backend Stack** — Node.js, Express, MongoDB, Mongoose  
+- 📂 **File & Media Handling** — Cloudinary and storage integrations  
+- 💳 **Payment Gateways** — Experience with Razorpay integration  
+- 🧪 **Real-Time Apps** — WebSockets via Socket.io  
+- 🚢 **Deployment & DevOps** — Vercel, AWS EC2, Docker (multi-stage builds)
 
 ---
 
-## 📈 LeetCode Stats
+## 🧰 Tech Stack
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/deepanshu_0910?theme=dark&font=baloo&ext=contest)
+**Languages & Runtime**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
----
+**Frameworks & Libraries**  
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)  
+![Mongoose](https://img.shields.io/badge/-Mongoose-800000?style=flat&logo=mongoose&logoColor=white)
 
-## 🌱 Currently Learning
+**Database & Cloud**  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
 
-- ⚡ **Next.js** — for full-stack SSR apps
-- 🧠 **AI Integration** — combining ML with backend workflows
-
----
-
-## 🤝 Let's Connect
-
-If you're hiring, collaborating, or just want to chat — feel free to connect:
-
-- 📧 **Email:** [deepanshubad000@gmail.com](mailto:deepanshubad000@gmail.com)
-- 🌐 **Portfolio:** [deepanshu902.xyz](https://deepanshu902.xyz)
-- 💼 **LinkedIn:** [linkedin.com/in/deepanshu902](https://www.linkedin.com/in/deepanshu902)
-- 🧑‍💻 **GitHub:** [github.com/Deepanshu902](https://github.com/Deepanshu902)
+**DevOps & Tools**  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)  
+![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 
 ---
 
-> ⚡ “Good code is its own best documentation.” – Steve McConnell
+## 📊 LeetCode Activity
+
+[![LeetCode Streak](https://leetgraph.app/api?username=deepanshu_0910&theme=dark)](https://leetcode.com/deepanshu_0910)
+
+---
+
+## 🔗 Connect with Me
+
+| 🔗 Platform | Link |
+|------------|------|
+| 🌐 **Portfolio** | [deepanshu902.xyz](https://deepanshu902.xyz) |
+| ✉️ **Email** | [deepanshubad000@gmail.com](mailto:deepanshubad000@gmail.com) |
+| 💼 **LinkedIn** | [linkedin.com/in/deepanshu902](https://www.linkedin.com/in/deepanshu902) |
+| 🧠 **LeetCode** | [leetcode.com/deepanshu_0910](https://leetcode.com/deepanshu_0910) |
+
+---
+
+> “Simplicity is the soul of efficiency.” – Austin Freeman
