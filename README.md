@@ -42,7 +42,7 @@ Currently improving my **DevOps and Docker** workflow for better deployment pipe
 
 ## 📊 LeetCode Activity
 
-[![LeetCode Streak](https://leetgraph.app/api?username=deepanshu_0910&theme=dark)](https://leetcode.com/deepanshu_0910)
+[![LeetCode Streak](https://leetgraph.app/api?username=deepanshu_0910&theme=light)](https://leetcode.com/deepanshu_0910)
 
 ---
 
