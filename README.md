@@ -51,7 +51,7 @@ Currently improving my **DevOps and Docker** workflow for better deployment pipe
 | 🔗 Platform | Link |
 |------------|------|
 | 🌐 **Portfolio** | [deepanshu902.xyz](https://deepanshu902.xyz) |
-| ✉️ **Email** | [deepanshubad000@gmail.com](mailto:deepanshu.sde.work@gmail.com) |
+| ✉️ **Email** | [deepanshu.sde.work@gmail.com](mailto:deepanshu.sde.work@gmail.com) |
 | 💼 **LinkedIn** | [linkedin.com/in/deepanshu902](https://www.linkedin.com/in/deepanshu902) |
 | 🧠 **LeetCode** | [leetcode.com/deepanshu_0910](https://leetcode.com/deepanshu_0910) |
 
