@@ -2,7 +2,7 @@
 
 Backend-focused **MERN Stack Developer** with a strong grip on building scalable and secure APIs.  
 I work mostly with **Node.js, Express, MongoDB**, and cloud-based integrations.  
-Currently improving my **DevOps and Docker** workflow for better deployment pipelines.
+Working with Docker and GitHub Actions for automated CI/CD deployments on AWS EC2.
 
 ---
 
